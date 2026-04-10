@@ -5,7 +5,7 @@
 
 ## Live Demo
 
-https://rent-prediction-app-vedagbhp22cr5jzrshoye8.streamlit.app
+https://rentsmart-ml-rent-prediction-rk2d4wyyj7bvwpymwfvfsx.streamlit.app
 
 ---
 
