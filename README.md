@@ -16,7 +16,7 @@ RentSmart is a machine learning-based web application designed to assist users i
 * Estimating rental prices based on property features
 * Identifying suitable locations within a specified budget
 
-The project demonstrates a complete end-to-end data science workflow, including data preprocessing, exploratory data analysis, model development, and deployment.
+The project demonstrates a complete end-to-end data science workflow, including data preprocessing, exploratory data analysis, model building and evaluation, and deployment.
 
 ---
 
