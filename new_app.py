@@ -18,7 +18,7 @@ import numpy as np
 st.set_page_config(layout="wide")
 
 # =========================
-# 🎨 PROFESSIONAL UI THEME
+#  PROFESSIONAL UI THEME
 # =========================
 st.markdown("""
 <style>
